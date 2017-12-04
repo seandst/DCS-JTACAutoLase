@@ -1,4 +1,4 @@
-#JTAC Automatic Targeting and Laser Script
+# JTAC Automatic Targeting and Laser Script
 
 Allows a JTAC to mark and hold an IR and Laser point on a target allowing TGP's to lock onto the lase and ease
 of target location using NV Goggles
@@ -17,7 +17,7 @@ You can also enable an F10 menu option for coalition units allowing the JTAC(s) 
 
 If a JTAC is down it won't report in.
 
-##USAGE:
+## USAGE
 
 Place JTAC units on the map with the mission editor putting each JTAC in it's own group containing only itself and no
 other units. Name the group something easy to remember e.g. JTAC1 and make sure the JTAC units have a unique name which must
@@ -73,8 +73,6 @@ the mission but there can be a delay of up to 30 seconds after activation for th
 You can also run the code at any time if a JTAC is dynamically added to the map as long as you know the Group name of the JTAC.
 
 The 3 missions demonstrate different ways of using the script with the JTACTest-troops-vehicles demonstrating the ability to individually configure each JTAC. Make sure you look in the triggers to see how.
-
-Last Edit:  21/04/2015
 
 Last Change: 
 Added laser code to f10 status
